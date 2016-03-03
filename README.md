@@ -22,10 +22,8 @@
 
 ##代码框
 `print "ttest"
-
- print ""
-  
- 内部要不停换行?`
+print ""
+内部要不停换行?`
 
 默认的开发分支叫做`git clone`
 
